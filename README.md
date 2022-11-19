@@ -1,5 +1,5 @@
 # Bellabeat Case Study
-This is my Google Data Analytics capstone project.
+View my Google Data Analytics capstone project [here](https://nbviewer.org/github/tinahe-nyc/Bellabeat-Case-Study/blob/main/Bellabeat_project.ipynb#step-4.1).
 
 ## Background: 
 
